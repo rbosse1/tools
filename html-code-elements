@@ -1,0 +1,31 @@
+//BUTTONS//
+
+.btn-main {
+  background-color: #333;
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 1.3px;
+  padding: 16px 40px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.main-btn {
+  background-color: rgba(238,68,95,0.9);
+  color: #fff;
+  font-family: 'Helvetica Neue Thin', 'HelveticaNeue-Thin', 'helvetica neue', helvetica, arial, 'lucida grande', sans-serif;
+  border-radius: 4px;
+    color: #fff;
+    padding: 8px 30px;
+    transition: box-shadow 0.5s;
+    
+//BACKGROUND IMAGE FOR JUMBOTRON//
+
+.jumbotron {
+    background: url(bg.jpg) no-repeat center center;
+    background-size: cover;
+    background-color: transparent;
+    height: 560px;
+}
